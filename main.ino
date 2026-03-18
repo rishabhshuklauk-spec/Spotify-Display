@@ -17,10 +17,10 @@ Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
 #define I2S_LRC    27
 #define I2S_DOUT   22
 
-void setup() {
+void setup()
+{
   Serial.begin(115200);
-  Serial.println("Booting Spotify Display...");
-
+  
   pinMode(BTN_LEFT, INPUT_PULLUP);
   pinMode(BTN_MID, INPUT_PULLUP);
   pinMode(BTN_RIGHT, INPUT_PULLUP);
