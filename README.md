@@ -11,14 +11,14 @@ I also thought it would be a good opportunity to work on my CAD skills and gener
 BOM
 | Component | Purpose | Quantity | Cost (USD) | Distributor | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2.0" TFT ILI9341** | The display | 1 | $7.37 | Ali Express | (https://www.aliexpress.com/item/1005008042359126.html) |
-| **Mx Keycaps** | To cover the switches | 1 | $2.45 | Ali Express | (https://www.aliexpress.com/item/1005005514406952.html) |
-| **ESP32 Development Board** | Microcontroller with bluetooth | 1 | $5.34 | Ali Express | (https://www.aliexpress.com/item/1005008419095315.html) |
-| **Max98357 I2S Amplifier** | The amplifier for the inbuilt speaker | 1 | $3.38 | Ali Express | (https://www.aliexpress.com/item/1005006823938000.html) |
-| **3W 4Ω speaker** | A small speaker unit | 1 | $5.30 | Ali Express | (https://www.aliexpress.com/item/32593991938.html) |
-| **M3 Heatset inserts** | Mounting the parts | 1 | $4.15 | Ali Express | (https://www.aliexpress.com/item/1005006838108683.html) |
-| **M3 Screw set** | To actually screw into the inserts | 1 | $8.19 | Ali Express | (https://www.aliexpress.com/item/1005004949274102.html) |
-| **Keygeek Y3 Linear** | Main control switches | 1 | $7.93 | Thocc Exchange | (https://thoccexchange.com/products/keygeek-y3-linear-10-pack) |
+| **2.0" TFT ILI9341** | The display | 1 | $7.37 | Ali Express | [Link](https://www.aliexpress.com/item/1005008042359126.html) |
+| **Mx Keycaps** | To cover the switches | 1 | $2.45 | Ali Express | [Link](https://www.aliexpress.com/item/1005005514406952.html) |
+| **ESP32 Development Board** | Microcontroller with bluetooth | 1 | $5.34 | Ali Express | [Link](https://www.aliexpress.com/item/1005008419095315.html) |
+| **Max98357 I2S Amplifier** | The amplifier for the inbuilt speaker | 1 | $3.38 | Ali Express | [Link](https://www.aliexpress.com/item/1005006823938000.html) |
+| **3W 4Ω speaker** | A small speaker unit | 1 | $5.30 | Ali Express | [Link](https://www.aliexpress.com/item/32593991938.html) |
+| **M3 Heatset inserts** | Mounting the parts | 1 | $4.15 | Ali Express | [Link](https://www.aliexpress.com/item/1005006838108683.html) |
+| **M3 Screw set** | To actually screw into the inserts | 1 | $8.19 | Ali Express | [Link](https://www.aliexpress.com/item/1005004949274102.html) |
+| **Keygeek Y3 Linear** | Main control switches | 1 | $7.93 | Thocc Exchange | [Link](https://thoccexchange.com/products/keygeek-y3-linear-10-pack) |
 | **Total Cost** | | | **$44.11** | | |
 
 Pictures
