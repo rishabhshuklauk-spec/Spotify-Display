@@ -28,6 +28,8 @@ Pictures
 <img width="941" height="819" alt="image" src="https://github.com/user-attachments/assets/ea8c3a35-55a0-4fd4-ad8f-901ac884ad53" />
 <img width="606" height="561" alt="image" src="https://github.com/user-attachments/assets/4c5a3d8e-3cdd-401f-888b-b3080bfd60d0" />
 
+Additional link to the onshape doc I worked in https://cad.onshape.com/documents/0f3479b5dbe9c098608ad35a/w/0f24614ef00d5e545995bda6/e/e7a0934b9ede5612e89314f2?renderMode=0&uiState=69bb03ebf70d644fdef8b86a
+
 
 
 
