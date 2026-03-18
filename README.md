@@ -21,6 +21,11 @@ BOM
 | **Keygeek Y3 Linear** | Main control switches | 1 | $7.93 | Thocc Exchange | [Link](https://thoccexchange.com/products/keygeek-y3-linear-10-pack) |
 | **Total Cost** | | | **$44.11** | | |
 
+Dependencies
+To run the `main.ino` code, I will need to install the libraries via the Arduino IDE:
+`Adafruit GFX Library`
+`Adafruit ILI9341`
+
 Pictures
 <img width="839" height="743" alt="image" src="https://github.com/user-attachments/assets/27cc4d38-160d-4a87-903e-f49223507df3" />
 <img width="793" height="505" alt="image" src="https://github.com/user-attachments/assets/f4388e74-2eb1-4b68-93da-5746230002e9" />
